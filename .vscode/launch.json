@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/AI_LAB/Lab-1",
-      "program": "d:/AI_LAB/Lab-1/build/Debug/outDebug",
+      "cwd": "d:/AI_LAB/Lab-3",
+      "program": "d:/AI_LAB/Lab-3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
